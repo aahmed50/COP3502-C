@@ -1,0 +1,8 @@
+COP 3502C Assignment 2
+Asma Ahmed 
+
+Testing Strategy:
+I made test cases of different sizes based on the run time restrictions of: 
+The intended run-times are O( (2n)! ) for n = 5, O ( (2n)!/2n ) for n = 6, and O ( (2n)!/ ( 2n * n! ) ) for n = 8. Three test cases for each version of n. The numbers were generated randomly at first and some copied from the in.txt file to make sure that the math is being done correctly over the iterations. 
+
+I used a GDB debugger to check for errors/core dump and another IDE to check for runtime because I dont know if it's possible to check for runtime in repl.it
