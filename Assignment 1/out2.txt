@@ -1,0 +1,70 @@
+Store #1:
+lychee 6.666667
+longan 10.476190
+tapioca 2.857143
+
+Store #2:
+mango 2.000000
+lychee 11.666667
+longan 12.476190
+juneplum 4.000000
+tapioca 4.857143
+syrup 5.000000
+
+Store #3:
+mango 16.666667
+lychee 44.000000
+longan 37.333333
+grassjelly 7.000000
+
+Store #4:
+mango 33.333333
+lychee 33.333333
+longan 33.333333
+
+Store #5:
+mango 33.333333
+lychee 78.333333
+longan 89.047619
+tapioca 14.285714
+grassjelly 10.000000
+syrup 25.000000
+
+Store #6:
+lychee 80.000000
+longan 80.000000
+grassjelly 40.000000
+
+Store #7:
+mango 33.333333
+lychee 33.333333
+longan 35.714286
+juneplum 16.666667
+tapioca 14.285714
+syrup 16.666667
+
+Store #8:
+mango 7.000000
+lychee 18.333333
+longan 22.952381
+juneplum 6.500000
+tapioca 7.714286
+syrup 2.500000
+
+Store #9:
+mango 31.333333
+lychee 61.666667
+longan 39.428571
+juneplum 26.000000
+tapioca 16.571429
+syrup 35.000000
+
+Store #10:
+mango 6.666667
+lychee 20.666667
+longan 89.714286
+juneplum 3.333333
+tapioca 34.285714
+grassjelly 2.000000
+syrup 13.333333
+

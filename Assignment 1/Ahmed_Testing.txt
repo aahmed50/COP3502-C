@@ -1,0 +1,6 @@
+COP 3502C Assignment 1
+Asma Ahmed
+
+Testing Strategy:
+First created a very short input file to ensure that the file was being formatted correctly on my end. Then made a much longer input file to test whether memory is properly being allocated dynamically. Input files were created following the format of the sample input files. The program was tested first using the sample input files and the output was compared with the given samples outputs.
+I used a GDB debugger periodically to check for leaks alongside the leak detectors as well as checking for any core dumps or errors. The program core dump-ed twice, once due to an incorrectly formatted malloc and once due to errors in formatting the imput that went outside of the index of an array.  

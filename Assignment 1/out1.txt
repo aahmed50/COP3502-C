@@ -1,0 +1,19 @@
+Store #1:
+mango 13.333333
+lychee 23.333333
+longan 23.333333
+
+Store #2:
+mango 50.000000
+lychee 33.333333
+longan 66.666667
+
+Store #3:
+mango 33.333333
+lychee 33.333333
+longan 33.333333
+
+Store #4:
+lychee 66.666667
+longan 33.333333
+
