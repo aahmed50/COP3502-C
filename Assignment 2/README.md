@@ -11,5 +11,3 @@ $\sqrt{(x_{i}-x_{j})^{2} + (y_{i}-y_{i})^{2}}$
 <br>
 Given the (x, y) positions of 2n treehouse, of all possible ways to create n pairs of distinct trees, find the minimum 
 possible sum of distances between each tree in the pairs.  
-
-### Components: 
